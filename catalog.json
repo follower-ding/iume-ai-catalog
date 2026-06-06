@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "name": "iume-ai-catalog",
+  "description": "精选 MCP、Cursor Skill、Prompt 与在线工具",
+  "updatedAt": "2026-06-06",
+  "entries": [
+    "web-to-mcp"
+  ]
+}
