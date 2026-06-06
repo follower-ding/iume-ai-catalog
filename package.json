@@ -1,0 +1,9 @@
+{
+  "name": "iume-ai-catalog",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "add": "node scripts/add-entry.mjs",
+    "validate": "node scripts/validate.mjs"
+  }
+}
