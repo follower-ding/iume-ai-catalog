@@ -1,0 +1,35 @@
+{
+  "id": "mcp-example",
+  "name": "示例 MCP",
+  "description": "一句话简介，显示在工具箱卡片上",
+  "category": "mcp",
+  "icon": "🔌",
+  "tags": ["demo"],
+  "url": "https://example.com/docs",
+  "featured": false,
+  "source": "official",
+  "detail": {
+    "intro": "稍长介绍：解决什么问题",
+    "features": ["功能 1", "功能 2"],
+    "install": [
+      "如需 API Key：去官网注册",
+      "Cursor → Settings → MCP → 添加配置"
+    ],
+    "setup": [
+      "把下方 JSON 合并进 mcp.json",
+      "重启 Cursor 或 Reload MCP"
+    ],
+    "usage": [
+      "在 Agent 说：「用 xxx 做 yyy」",
+      "说：「验证 xxx MCP 是否连通」"
+    ],
+    "configs": [
+      {
+        "id": "mcp-example-config",
+        "title": "MCP 配置（mcp.json）",
+        "content": "{\n  \"mcpServers\": {\n    \"example\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"package-name\"]\n    }\n  }\n}"
+      }
+    ],
+    "related": []
+  }
+}
