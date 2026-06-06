@@ -4,6 +4,26 @@
   "description": "精选 MCP、Cursor Skill、Prompt 与在线工具",
   "updatedAt": "2026-06-06",
   "entries": [
+    "api-sync",
+    "cursor-editor",
+    "cursor-rule",
+    "e2e-playwright",
+    "fullstack-scaffold",
+    "iume-atelier-mcp",
+    "iume-atelier-publish",
+    "mcp-context7",
+    "mcp-firecrawl",
+    "mcp-github",
+    "mcp-mysql",
+    "mcp-puppeteer",
+    "online-github-actions",
+    "online-netlify",
+    "online-railway",
+    "online-vite",
+    "prompt-blog",
+    "prompt-deploy",
+    "prompt-refactor",
+    "secrets-guard",
     "web-to-mcp"
   ]
 }

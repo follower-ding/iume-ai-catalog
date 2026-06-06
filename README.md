@@ -1,7 +1,7 @@
 # iume-ai-catalog
 
 精选 **MCP · Cursor Skill · Prompt · 在线工具** 的独立维护仓库。  
-博客 [iume-atelier](https://github.com/follower-ding/iume-atelier) 前台 `/tools` 通过同步脚本读取本仓库 JSON，**不进数据库**。
+博客 [iume-atelier](https://github.com/follower-ding/iume-atelier) 前台 `/tools` **唯一数据源**：同步本仓库 `entries/*.json`，不进数据库。
 
 ## 目录
 
